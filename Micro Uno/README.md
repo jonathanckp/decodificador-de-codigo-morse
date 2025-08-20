@@ -1,0 +1,1 @@
+El microcontrolador uno es el encargado de codificar el mensaje enviado por el usuario por medio del puerto serie de Arduino ide, y transformarlo en codigo morse para luego ser enviado por medio del LED hacia el microcontrolador dos.
